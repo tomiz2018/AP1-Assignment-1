@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Web Viewer</string>
+    <string name="chooseAWebsite">Please choose a website</string>
+    <string name="UCSDExtension">UCSD Extension</string>
+    <string name="Yahoo">Yahoo</string>
+    <string name="go_button">GO</string>
+</resources>
